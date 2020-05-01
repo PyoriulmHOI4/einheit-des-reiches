@@ -1,1 +1,5 @@
 Einheit Des Reiches
+
+# Einheit des Reiches is a team-made mod led by NoUsername.
+# The year is 1936. In the world, the Germans proclaim victory in the Great War as their empire stretches its body across the European continent. Meanwhile, France, while still a democracy, fights increasingly stronger communist threats and the British continue to barely resist in the isles. In 1932, the United States faced a major recession that now, starts to plague the world and cause civil unrest. Japan, despite a few Pacific losses in the Treaty of Versailles, continue to seek the expansion of their Empire and proclaim themselves as the Empire of the Rising Sun.
+# But soon, the order will fall apart. With new factions willing to stand up in Germany and her allies plus the French and British finally finding each other's hands in the falling debris, and America beginning to suffer instability, the world's new order is beginning to lose its balance. A single spark may trigger it all to come tumbling down to the ground.
